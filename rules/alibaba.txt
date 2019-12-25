@@ -3,6 +3,7 @@
 ||alimama.cn^
 ||alimama.com^
 ||cnzz.com^
+||log.aliyuncs.com^
 ||mmstat.com^
 ||simba.taobao.com^
 ||tanx.com^
@@ -15,6 +16,8 @@ aeis.alicdn.com
 arms-retcode.aliyuncs.com
 assets.alicdn.com/g/alilog*
 g.alicdn.com/alilog/mlog/*
+g.alicdn.com/axdata/yunlog*
+g.alicdn.com/dawn/user-tracker*
 kcart.alipay.com
 mdap.alipay.com
 portal.manjushri.alibaba.com
