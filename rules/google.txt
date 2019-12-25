@@ -1,9 +1,9 @@
 ! Google
 ||doubleclick.net^
-||googleadservices.com^
 ||googleadservices.cn^
+||googleadservices.com^
+||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
 ||mobileads.google.com^
-||googlesyndication.com^
 ads.youtube.com

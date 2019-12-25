@@ -1,9 +1,9 @@
 ! Baidu
+@@captcha.su.baidu.com
+*click*.baidu.com
+*cpu*.baidu.com
 ||cbjs.baidu.com^
 ||cbjs.baidustatic.com^
 ||share.baidu.com^
 ||tuisong.baidu.com^
-*cpu*.baidu.com
-*click*.baidu.com
 hm.baidu.com
-@@captcha.su.baidu.com

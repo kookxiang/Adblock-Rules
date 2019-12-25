@@ -1,5 +1,5 @@
 ! Microsoft
+*ads*.msn.com
+*telemetry*.microsoft.com
 ||msads.net^
 ||telemetry.microsoft.com^
-*telemetry*.microsoft.com
-*ads*.msn.com
