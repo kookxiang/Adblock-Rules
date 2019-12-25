@@ -1,0 +1,24 @@
+! 2345
+||2345.com^
+||50bang.org^
+
+! 360
+||360.cn^
+||360safe.com^
+||360totalsecurity.com^
+||so.com^
+||qihoo.com^
+||qhimg.com^
+||qhstatic.com^
+||qhupdate.com^
+||appjiagu.com^
+
+! JD
+union*.jd.com
+cm.jd.com
+
+||growingio.com^
+||tagtic.cn^
+||adnyg.com^
+||ugdtimg.com^
+||stargame.com^

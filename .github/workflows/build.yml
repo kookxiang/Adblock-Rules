@@ -1,0 +1,16 @@
+name: Build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build adblock-rule.txt
+      run: cat rules/*.txt > adblock-rule.txt
+    - name: Upload to OSS
+      env:
+        OSS_ACCESS_KEY_ID: ${{ secrets.OSS_ACCESS_KEY_ID }}
+        OSS_ACCESS_KEY_SECRET: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
+      run: ./.github/scripts/publish.sh

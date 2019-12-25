@@ -1,0 +1,27 @@
+! Alibaba
+||cnzz.com^
+||alimama.com^
+||alimama.cn^
+||mmstat.com^
+||tanx.com^
+||zampdsp.com^
+||umeng.com^
+||umengcloud.com^
+||whalecloud.com^
+||simba.taobao.com^
+*.taobao.com/*aplus*.js
+assets.alicdn.com/g/alilog*
+g.alicdn.com/alilog/mlog/*
+ur.alipay.com
+mdap.alipay.com
+kcart.alipay.com
+tracert.alipay.com
+yunf.aliapp.org
+acjs.aliyun.com
+aeis.alicdn.com
+portal.manjushri.alibaba.com
+
+! retCode
+arms-retcode.aliyuncs.com
+retcode.taobao.com
+retcode.alicdn.com
