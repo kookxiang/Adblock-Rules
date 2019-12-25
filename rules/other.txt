@@ -22,3 +22,5 @@ union*.jd.com
 ||stargame.com^
 ||tagtic.cn^
 ||ugdtimg.com^
+||xlingdi.com^
+||zampdsp.com^
