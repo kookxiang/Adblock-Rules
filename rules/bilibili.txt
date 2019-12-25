@@ -1,6 +1,5 @@
 ! Bilibili
 *.hdslb.com/bfs/cm/cm-sdk/*
 *.hdslb.com/bfs/seed/log/
-*.hdslb.com/bfs/static/jinkela/long/js/sentry/*
 ||cm.bilibili.com^
 ||data.bilibili.com^
