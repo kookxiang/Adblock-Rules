@@ -3,3 +3,4 @@
 *.hdslb.com/bfs/seed/log/
 ||cm.bilibili.com^
 ||data.bilibili.com^
+bilibili.com##.mascot
