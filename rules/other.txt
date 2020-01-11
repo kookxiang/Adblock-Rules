@@ -24,3 +24,5 @@ union*.jd.com
 ||ugdtimg.com^
 ||xlingdi.com^
 ||zampdsp.com^
+
+||telemetry.coder.com
