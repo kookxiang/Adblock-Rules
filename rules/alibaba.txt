@@ -1,4 +1,5 @@
 ! Alibaba
+*.alicdn.com/*sentry*
 *.taobao.com/*aplus*.js
 ||alimama.cn^
 ||alimama.com^
