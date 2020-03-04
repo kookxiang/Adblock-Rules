@@ -1,3 +1,7 @@
 ! Tencent
 ||gdt.qq.com^
 ad*.qq.com
+huatuospeed.weiyun.com
+pingfore.qq.com
+stat*.qq.com
+wspeed.qq.com
