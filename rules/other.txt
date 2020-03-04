@@ -17,10 +17,19 @@
 cm.jd.com
 union*.jd.com
 
+! Sina Weibo
+*beacon.sina.com.cn
+
 ||adnyg.com^
 ||baifendian.com^
+||duomai.com^
 ||growingio.com^
+||lapin365.com^
+||miaozhen.com^
+||scorecardresearch.com^
 ||stargame.com^
+||taboola.com.cn^
+||taboola.com^
 ||tagtic.cn^
 ||ugdtimg.com^
 ||xlingdi.com^
