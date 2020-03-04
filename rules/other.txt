@@ -20,17 +20,36 @@ union*.jd.com
 ! Sina Weibo
 *beacon.sina.com.cn
 
+! Xiaomi
+||stat.xiaomi.com^
+*.xiaomi.cn/*/statistics*
+
+! Huawei
+||dap.vmall.com^
+||data.hicloud.com^
+||dt.hicloud.com^
+||nebula-collector.huawei.com^
+
+||51.la^
 ||adnyg.com^
 ||baifendian.com^
+||crazyegg.com^
+||demdex.net^
 ||duomai.com^
 ||growingio.com^
 ||lapin365.com^
 ||miaozhen.com^
+||omtrdc.net^
+||pv.com.cn^
 ||scorecardresearch.com^
+||sensorsdata.cn^
 ||stargame.com^
 ||taboola.com.cn^
 ||taboola.com^
 ||tagtic.cn^
+||testin.cn^
+||tiqcdn.cn^
+||tiqcdn.com^
 ||ugdtimg.com^
 ||xlingdi.com^
 ||zampdsp.com^
