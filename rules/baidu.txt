@@ -2,6 +2,7 @@
 @@captcha.su.baidu.com
 *.baidu.com/*pv.gif
 *.baidu.com/*track.gif
+*.baidupcs.com/monitor.jpg
 *click*.baidu.com
 *cpu*.baidu.com
 ||cbjs.baidu.com^
@@ -12,4 +13,4 @@ als.baidu.com
 gsp0.baidu.com
 hm.baidu.com
 miao.baidu.com
-*.baidupcs.com/monitor.jpg
+zz.bdstatic.com
