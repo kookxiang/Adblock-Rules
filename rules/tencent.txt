@@ -4,6 +4,7 @@
 ad*.qq.com
 btrace.qq.com
 huatuo*.weiyun.com
+mp.weixin.qq.com/mp/*report
 pingfore.qq.com
 stat*.qq.com
 wspeed.qq.com
