@@ -3,8 +3,10 @@
 ||huatuo.qq.com^
 ad*.qq.com
 btrace.qq.com
+cloud.tencent.com/act/common/report
 huatuo*.weiyun.com
 mp.weixin.qq.com/mp/*report
 pingfore.qq.com
 stat*.qq.com
+tajs.qq.com
 wspeed.qq.com
