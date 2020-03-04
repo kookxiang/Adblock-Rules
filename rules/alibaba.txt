@@ -19,7 +19,9 @@ assets.alicdn.com/g/alilog*
 g.alicdn.com/alilog/mlog/*
 g.alicdn.com/axdata/yunlog*
 g.alicdn.com/dawn/user-tracker*
+g.alicdn.com/sj/securesdk
 kcart.alipay.com
+logs.amap.com
 mdap.alipay.com
 portal.manjushri.alibaba.com
 retcode.alicdn.com
@@ -27,3 +29,4 @@ retcode.taobao.com
 tracert.alipay.com
 ur.alipay.com
 yunf.aliapp.org
+ynuf.alipay.com
