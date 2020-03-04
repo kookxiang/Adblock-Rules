@@ -18,10 +18,12 @@ cm.jd.com
 union*.jd.com
 
 ||adnyg.com^
+||baifendian.com^
 ||growingio.com^
 ||stargame.com^
 ||tagtic.cn^
 ||ugdtimg.com^
 ||xlingdi.com^
+||zampdsp.com^
 
 ||telemetry.coder.com
