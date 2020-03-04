@@ -23,6 +23,5 @@ union*.jd.com
 ||tagtic.cn^
 ||ugdtimg.com^
 ||xlingdi.com^
-||zampdsp.com^
 
 ||telemetry.coder.com
