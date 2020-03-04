@@ -17,6 +17,11 @@
 cm.jd.com
 union*.jd.com
 
+! Zhihu
+*analytics.zhihu.com
+sugar.zhihu.com
+unpkg.zhimg.com/*sentry*
+
 ! Sina Weibo
 *beacon.sina.com.cn
 
