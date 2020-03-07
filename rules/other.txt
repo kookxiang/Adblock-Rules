@@ -36,6 +36,7 @@ unpkg.zhimg.com/*sentry*
 ||nebula-collector.huawei.com^
 
 ! AcFun
+acfun.cn###pagelet_rightrecommend
 ||log-sdk.gifshow.com^
 
 ||51.la^
