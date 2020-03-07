@@ -35,6 +35,9 @@ unpkg.zhimg.com/*sentry*
 ||dt.hicloud.com^
 ||nebula-collector.huawei.com^
 
+! AcFun
+||log-sdk.gifshow.com^
+
 ||51.la^
 ||adnyg.com^
 ||baifendian.com^
