@@ -39,6 +39,11 @@ unpkg.zhimg.com/*sentry*
 acfun.cn###pagelet_rightrecommend
 ||log-sdk.gifshow.com^
 
+! Douyu
+douyucdn.cn*/report
+||sdkapi.douyucdn.cn^
+||p2perrorlog.douyucdn.cn^
+
 ||51.la^
 ||adnyg.com^
 ||baifendian.com^
