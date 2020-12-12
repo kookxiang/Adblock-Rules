@@ -15,7 +15,6 @@
 
 ! JD
 cm.jd.com
-union*.jd.com
 
 ! Zhihu
 *analytics.zhihu.com
