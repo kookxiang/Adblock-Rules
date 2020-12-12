@@ -4,3 +4,6 @@
 ||cm.bilibili.com^
 ||data.bilibili.com^
 bilibili.com##.mascot
+
+!!! FUCK STUPID BILIBILI CDN !!!
+||bilivideo.cn^
