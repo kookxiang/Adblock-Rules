@@ -68,3 +68,6 @@ douyucdn.cn*/report
 ||zampdsp.com^
 
 ||telemetry.coder.com
+
+# Fix NGA
+*.nga.178.com/common_res/js_box.js
