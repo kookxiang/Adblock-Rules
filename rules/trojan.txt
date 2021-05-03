@@ -1,0 +1,8 @@
+# Xiaomi
+||api.miwifi.com^
+
+# Skyworth
+# https://www.v2ex.com/t/772523
+||gz-data.com^
+||gzads.com^
+||gozendata.com^
