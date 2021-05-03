@@ -1,6 +1,7 @@
 ! Tencent
 @@||captcha.qq.com^
 ||gdt.qq.com^
+||imtt.qq.com^
 ||huatuo.qq.com^
 ad*.qq.com
 btrace.qq.com
