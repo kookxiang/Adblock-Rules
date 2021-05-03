@@ -66,6 +66,9 @@ douyucdn.cn*/report
 ||ugdtimg.com^
 ||xlingdi.com^
 ||zampdsp.com^
+||woopra.com^
+||zhugeio.com^
+||growingio.com^
 
 ||telemetry.coder.com
 
