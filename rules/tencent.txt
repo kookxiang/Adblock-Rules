@@ -1,4 +1,5 @@
 ! Tencent
+@@||captcha.qq.com^
 ||gdt.qq.com^
 ||huatuo.qq.com^
 ad*.qq.com
