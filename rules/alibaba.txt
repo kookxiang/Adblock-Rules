@@ -1,5 +1,6 @@
 ! Alibaba
 @@||tbskip.taobao.com^
+@@||waimai-guide.ele.me^
 @@||wagbridge.alibaba.tanx.com^
 *.alicdn.com/*sentry*
 *.taobao.com/*aplus*.js
