@@ -1,4 +1,5 @@
 ! Microsoft
+ntp.msn.cn
 *ads*.msn.com
 *telemetry*.microsoft.com
 ||bingads.microsoft.com^
