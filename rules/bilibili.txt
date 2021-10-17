@@ -6,6 +6,7 @@
 bilibili.com##.mascot
 
 ! Bilibili P2P
+stun-*.chat.bilibili.com
 *-live-p2p-*.chat.bilibili.com
 
 !!! FUCK STUPID BILIBILI CDN !!!
