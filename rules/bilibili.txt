@@ -5,5 +5,8 @@
 ||data.bilibili.com^
 bilibili.com##.mascot
 
+! Bilibili P2P
+*-live-p2p-*.chat.bilibili.com
+
 !!! FUCK STUPID BILIBILI CDN !!!
 ||bilivideo.cn^
