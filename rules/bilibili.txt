@@ -11,3 +11,4 @@ stun-*.chat.bilibili.com
 
 !!! FUCK STUPID BILIBILI CDN !!!
 ||bilivideo.cn^
+||szbdyd.com^

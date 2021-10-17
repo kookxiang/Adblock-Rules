@@ -12,3 +12,6 @@ pingfore.qq.com
 stat*.qq.com
 tajs.qq.com
 wspeed.qq.com
+
+! Tencent Cloud (Video P2P)
+*.qvb.qcloud.com
