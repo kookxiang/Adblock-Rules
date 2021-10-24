@@ -4,6 +4,7 @@
 ||baidubce.com^
 ||baidu.com^
 @@||pcs.baidu.com^
+@@||map.baidu.com^
 @@captcha.su.baidu.com
 @@gsp0.baidu.com
 @@imgsa.baidu.com
