@@ -9,6 +9,7 @@
 @@gsp0.baidu.com
 @@imgsa.baidu.com
 @@pan.baidu.com
+@@diskapi.baidu.com
 @@passport.baidu.com
 @@tieba.baidu.com
 @@tiebapic.baidu.com
