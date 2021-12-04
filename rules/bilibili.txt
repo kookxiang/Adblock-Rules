@@ -3,6 +3,7 @@
 ||cm.bilibili.com^
 ||data.bilibili.com^
 bilibili.com##.mascot
+live.bilibili.com##.web-player-inject-wrap
 
 ! Bilibili P2P
 stun-*.chat.bilibili.com
