@@ -4,6 +4,7 @@
 ||data.bilibili.com^
 bilibili.com##.mascot
 live.bilibili.com##.web-player-inject-wrap
+live.bilibili.com###my-dear-haruna-vm
 
 ! Bilibili P2P
 stun-*.chat.bilibili.com
