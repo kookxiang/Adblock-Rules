@@ -3,7 +3,6 @@
 ||gdt.qq.com^
 ||imtt.qq.com^
 ||huatuo.qq.com^
-ad*.qq.com
 btrace.qq.com
 cloud.tencent.com/act/common/report
 huatuo*.weiyun.com
