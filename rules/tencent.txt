@@ -8,9 +8,10 @@ cloud.tencent.com/act/common/report
 huatuo*.weiyun.com
 mp.weixin.qq.com/mp/*report
 pingfore.qq.com
+safebrowsing.urlsec.qq.com
 stat*.qq.com
 tajs.qq.com
 wspeed.qq.com
 
 ! Tencent Cloud (Video P2P)
-*.qvb.qcloud.com
+||qvb.qcloud.com^

@@ -2,11 +2,13 @@
 @@||tbskip.taobao.com^
 @@||waimai-guide.ele.me^
 @@||wagbridge.alibaba.tanx.com^
+@@||alibaba-work.tanx.com^
 *.alicdn.com/*sentry*
 *.taobao.com/*aplus*.js
 ||alimama.cn^
 ||alimama.com^
 ||cnzz.com^
+||effirst.com^
 ||log.aliyuncs.com^
 ||mmstat.com^
 ||simba.taobao.com^
