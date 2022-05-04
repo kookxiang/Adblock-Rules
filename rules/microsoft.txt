@@ -6,3 +6,22 @@ ntp.msn.cn
 ||data.microsoft.com^
 ||msads.net^
 ||telemetry.microsoft.com^
+
+! Windows Error Reporting
+watson.telemetry.microsoft.com
+watson.microsoft.com
+umwatsonc.telemetry.microsoft.com
+umwatsonc.events.data.microsoft.com
+*-umwatsonc.events.data.microsoft.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
+
+! Crash Dump Analysis
+oca.telemetry.microsoft.com
+oca.microsoft.com
+kmwatsonc.telemetry.microsoft.com
+*-kmwatsonc.telemetry.microsoft.com
