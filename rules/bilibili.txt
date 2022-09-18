@@ -9,3 +9,4 @@ live.bilibili.com###my-dear-haruna-vm
 ! Bilibili P2P
 stun-*.chat.bilibili.com
 *-live-p2p-*.chat.bilibili.com
+*web-player-tracker.biliapi.net
