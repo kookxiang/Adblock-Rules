@@ -39,6 +39,7 @@ acfun.cn###pagelet_rightrecommend
 ||log-sdk.gifshow.com^
 
 ! Douyu
+stun.douyucdn.cn
 douyucdn.cn*/report
 ||sdkapi.douyucdn.cn^
 ||p2perrorlog.douyucdn.cn^
