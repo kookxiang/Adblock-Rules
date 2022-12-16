@@ -5,8 +5,11 @@
 ||baidu.com^
 @@||pcs.baidu.com^
 @@||map.baidu.com^
+@@baidu.com
+@@www.baidu.com
 @@captcha.su.baidu.com
 @@gsp0.baidu.com
+@@image.baidu.com
 @@imgsa.baidu.com
 @@pan.baidu.com
 @@diskapi.baidu.com
