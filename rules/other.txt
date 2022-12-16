@@ -15,6 +15,7 @@
 
 ! JD
 cm.jd.com
+jddebug.com
 
 ! Zhihu
 *analytics.zhihu.com
@@ -39,6 +40,13 @@ acfun.cn###pagelet_rightrecommend
 ||log-sdk.gifshow.com^
 
 ! Douyu
+apm.douyucdn.cn
+mapm.douyucdn.cn
+apmconfig.douyucdn.cn
+dotbeats.douyucdn.cn
+dotcounter.douyucdn.cn
+streamdot.douyucdn.cn
+uact.douyucdn.cn
 stun.douyucdn.cn
 douyucdn.cn*/report
 ||sdkapi.douyucdn.cn^
