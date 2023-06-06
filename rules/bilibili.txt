@@ -7,6 +7,8 @@ live.bilibili.com##.web-player-inject-wrap
 live.bilibili.com###my-dear-haruna-vm
 
 ! Bilibili P2P
+stun.chat.bilibili.com
+stun6.chat.bilibili.com
 stun-*.chat.bilibili.com
 *-live-p2p-*.chat.bilibili.com
 *web-player-tracker.biliapi.net
