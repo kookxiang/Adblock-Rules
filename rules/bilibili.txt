@@ -1,7 +1,7 @@
 ! Bilibili
-*.hdslb.com/bfs/seed/log/
+*.hdslb.com/bfs/seed/log/$redirect=noop.js
 ||cm.bilibili.com^
-||data.bilibili.com^
+||data.bilibili.com^$redirect=nooptext
 bilibili.com##.mascot
 live.bilibili.com##.web-player-inject-wrap
 live.bilibili.com###my-dear-haruna-vm
@@ -12,3 +12,4 @@ stun6.chat.bilibili.com
 stun-*.chat.bilibili.com
 *-live-p2p-*.chat.bilibili.com
 *web-player-tracker.biliapi.net
+s1.hdslb.com/bfs/static/pcdn*$redirect=noop.js

@@ -3,15 +3,15 @@
 ||gdt.qq.com^
 ||imtt.qq.com^
 ||huatuo.qq.com^
-btrace.qq.com
-cloud.tencent.com/act/common/report
+btrace.qq.com$redirect=noop.js
+cloud.tencent.com/act/common/report$redirect=nooptext
 huatuo*.weiyun.com
-mp.weixin.qq.com/mp/*report
+mp.weixin.qq.com/mp/*report$redirect=nooptext
 pingfore.qq.com
 safebrowsing.urlsec.qq.com
-stat*.qq.com
-tajs.qq.com
-wspeed.qq.com
+stat*.qq.com$redirect=noop.js
+tajs.qq.com$redirect=noop.js
+wspeed.qq.com$redirect=noop.js
 
 ! Tencent Cloud (Video P2P)
 ||qvb.qcloud.com^
